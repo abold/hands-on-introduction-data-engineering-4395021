@@ -86,3 +86,10 @@
 [2024-05-24T14:54:36.286+0000] {logging_mixin.py:188} INFO - [2024-05-24T14:54:36.286+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2024-05-24T14:54:36.303+0000] {logging_mixin.py:188} INFO - [2024-05-24T14:54:36.303+0000] {dag.py:3954} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-05-23 00:00:00+00:00, run_after=2024-05-24 00:00:00+00:00
 [2024-05-24T14:54:36.342+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.103 seconds
+[2024-05-24T14:55:35.006+0000] {processor.py:161} INFO - Started process (PID=65619) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-05-24T14:55:35.007+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2024-05-24T14:55:35.008+0000] {logging_mixin.py:188} INFO - [2024-05-24T14:55:35.008+0000] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-05-24T14:55:35.028+0000] {processor.py:840} INFO - DAG(s) 'example_branch_python_operator_decorator' retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2024-05-24T14:55:35.049+0000] {logging_mixin.py:188} INFO - [2024-05-24T14:55:35.049+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-24T14:55:35.066+0000] {logging_mixin.py:188} INFO - [2024-05-24T14:55:35.066+0000] {dag.py:3954} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2024-05-23 00:00:00+00:00, run_after=2024-05-24 00:00:00+00:00
+[2024-05-24T14:55:35.115+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.116 seconds
