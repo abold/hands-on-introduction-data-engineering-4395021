@@ -39,3 +39,5 @@ Accept-Language: en-US,en;q=0.9
 Cookie: session=4c36d99c-6eb5-4b69-9a6e-babe293cfde2._hLU2maYgBzfjDCq2HPQbKy6050
 
 .[0m
+[[34m2024-05-24T14:47:17.931+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
+[[34m2024-05-24T14:52:18.066+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
