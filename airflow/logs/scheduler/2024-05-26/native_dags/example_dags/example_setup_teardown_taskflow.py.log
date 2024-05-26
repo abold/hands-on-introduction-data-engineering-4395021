@@ -1,0 +1,11 @@
+[2024-05-26T12:48:39.298+0000] {processor.py:161} INFO - Started process (PID=14899) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-05-26T12:48:39.298+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py for tasks to queue
+[2024-05-26T12:48:39.300+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.299+0000] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-05-26T12:48:39.307+0000] {processor.py:840} INFO - DAG(s) 'example_setup_teardown_taskflow' retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py
+[2024-05-26T12:48:39.531+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.530+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_setup_teardown_taskflow
+[2024-05-26T12:48:39.559+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.559+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:example_setup_teardown_taskflow
+[2024-05-26T12:48:39.586+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.585+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_setup_teardown_taskflow
+[2024-05-26T12:48:39.586+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.586+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-26T12:48:39.595+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.595+0000] {dag.py:3118} INFO - Creating ORM DAG for example_setup_teardown_taskflow
+[2024-05-26T12:48:39.601+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:39.601+0000] {dag.py:3954} INFO - Setting next_dagrun for example_setup_teardown_taskflow to 2024-05-25 00:00:00+00:00, run_after=2024-05-26 00:00:00+00:00
+[2024-05-26T12:48:39.640+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown_taskflow.py took 0.347 seconds

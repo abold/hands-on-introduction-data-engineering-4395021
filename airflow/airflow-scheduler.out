@@ -1,0 +1,41 @@
+[[34m2024-05-26T12:48:07.809+0000[0m] {[34mtask_context_logger.py:[0m63} INFO[0m - Task context logging is enabled[0m
+[[34m2024-05-26T12:48:07.810+0000[0m] {[34mexecutor_loader.py:[0m235} INFO[0m - Loaded executor: SequentialExecutor[0m
+[[34m2024-05-26T12:48:07.918+0000[0m] {[34mscheduler_job_runner.py:[0m796} INFO[0m - Starting the scheduler[0m
+[[34m2024-05-26T12:48:07.919+0000[0m] {[34mscheduler_job_runner.py:[0m803} INFO[0m - Processing each file at most -1 times[0m
+[[34m2024-05-26T12:48:07.933+0000[0m] {[34mmanager.py:[0m170} INFO[0m - Launched DagFileProcessorManager with pid: 14665[0m
+[[34m2024-05-26T12:48:07.935+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
+[[34m2024-05-26T12:48:07.941+0000[0m] {[34msettings.py:[0m60} INFO[0m - Configured default timezone UTC[0m
+[2024-05-26T12:48:07.978+0000] {manager.py:393} WARNING - Because we cannot use more than 1 thread (parsing_processes = 2) when using sqlite. So we set parallelism to 1.
+[[34m2024-05-26T12:48:10.577+0000[0m] {[34mserve_logs.py:[0m85} WARNING[0m - The Authorization header is missing: Host: 127.0.0.1:8793
+Connection: keep-alive
+Sec-Ch-Ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: session=ffd908e3-ff33-4fc5-b404-512276c3f2bc.ONTztcipvNTxgZTRfDLYCErIA64
+
+.[0m
+[[34m2024-05-26T12:48:10.689+0000[0m] {[34mserve_logs.py:[0m85} WARNING[0m - The Authorization header is missing: Host: 127.0.0.1:8793
+Connection: keep-alive
+Sec-Ch-Ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8793/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: session=ffd908e3-ff33-4fc5-b404-512276c3f2bc.ONTztcipvNTxgZTRfDLYCErIA64
+
+.[0m

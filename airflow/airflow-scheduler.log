@@ -1,0 +1,40 @@
+2024-05-26 12:48:07,809 INFO - Task context logging is enabled
+2024-05-26 12:48:07,810 INFO - Loaded executor: SequentialExecutor
+2024-05-26 12:48:07,918 INFO - Starting the scheduler
+2024-05-26 12:48:07,919 INFO - Processing each file at most -1 times
+2024-05-26 12:48:07,933 INFO - Launched DagFileProcessorManager with pid: 14665
+2024-05-26 12:48:07,935 INFO - Adopting or resetting orphaned tasks for active dag runs
+2024-05-26 12:48:07,941 INFO - Configured default timezone UTC
+2024-05-26 12:48:10,577 WARNING - The Authorization header is missing: Host: 127.0.0.1:8793
+Connection: keep-alive
+Sec-Ch-Ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: session=ffd908e3-ff33-4fc5-b404-512276c3f2bc.ONTztcipvNTxgZTRfDLYCErIA64
+
+.
+2024-05-26 12:48:10,689 WARNING - The Authorization header is missing: Host: 127.0.0.1:8793
+Connection: keep-alive
+Sec-Ch-Ua: "Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: http://127.0.0.1:8793/
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: en-US,en;q=0.9
+Cookie: session=ffd908e3-ff33-4fc5-b404-512276c3f2bc.ONTztcipvNTxgZTRfDLYCErIA64
+
+.

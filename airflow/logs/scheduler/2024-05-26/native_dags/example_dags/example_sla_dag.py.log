@@ -1,0 +1,11 @@
+[2024-05-26T12:48:36.617+0000] {processor.py:161} INFO - Started process (PID=14872) to work on /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-26T12:48:36.618+0000] {processor.py:830} INFO - Processing file /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2024-05-26T12:48:36.619+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-26T12:48:36.626+0000] {processor.py:840} INFO - DAG(s) 'example_sla_dag' retrieved from /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2024-05-26T12:48:36.851+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.850+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:example_sla_dag
+[2024-05-26T12:48:36.883+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.882+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:example_sla_dag
+[2024-05-26T12:48:36.914+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.914+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:example_sla_dag
+[2024-05-26T12:48:36.915+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.915+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-05-26T12:48:36.924+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.924+0000] {dag.py:3118} INFO - Creating ORM DAG for example_sla_dag
+[2024-05-26T12:48:36.933+0000] {logging_mixin.py:188} INFO - [2024-05-26T12:48:36.933+0000] {dag.py:3954} INFO - Setting next_dagrun for example_sla_dag to 2024-05-26 12:46:00+00:00, run_after=2024-05-26 12:48:00+00:00
+[2024-05-26T12:48:36.972+0000] {processor.py:183} INFO - Processing /usr/local/python/3.10.13/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py took 0.359 seconds
