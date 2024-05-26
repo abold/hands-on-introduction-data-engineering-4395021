@@ -47,3 +47,5 @@ Cookie: session=4c36d99c-6eb5-4b69-9a6e-babe293cfde2._hLU2maYgBzfjDCq2HPQbKy6050
 [[34m2024-05-26T09:35:22.150+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
 [[34m2024-05-26T09:40:22.313+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
 [[34m2024-05-26T09:45:22.474+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
+[[34m2024-05-26T09:50:22.636+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
+[[34m2024-05-26T09:55:22.796+0000[0m] {[34mscheduler_job_runner.py:[0m1595} INFO[0m - Adopting or resetting orphaned tasks for active dag runs[0m
